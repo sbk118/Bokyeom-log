@@ -8,7 +8,7 @@ const CONFIG = {
     email: "qhrua1108@naver.com",
     linkedin: "보겸-신-635266290",
     github: "sbk118",
-    instagram: "Bokyeom",
+    instagram: "qhrua_s",
   },
   projects: [
     {
